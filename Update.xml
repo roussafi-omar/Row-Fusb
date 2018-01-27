@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <coolapp>
-  <x:version>1.2.0.8</x:version>
-  <x:url>https://github.com/</x:url>
-  <x:message>Fix Copying File from DVD/CD</x:message>
+  <version>1.2.0.8</version>
+  <url>https://github.com/</url>
 </coolapp>
